@@ -10,8 +10,9 @@ body {
 	padding:0;
 	width: 100%
 
-}
+} 
 div.contact {position: fixed;
+	margin-left: 20px
 }
 a.contact {color: #E60000;
 text-decoration: underline;}
