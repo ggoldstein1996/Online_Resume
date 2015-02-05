@@ -1,0 +1,27 @@
+body {
+
+	background-image: url("http://upload.wikimedia.org/wikipedia/commons/2/23/Lake_mapourika_NZ.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #F5FAFF;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding:0;
+	width: 100%
+
+}
+div.contact {position: fixed;}
+div.one {text-align: right;
+margin-right: 78px}
+div.content {float: right;}
+h1 {text-align: center;}
+ul {}
+li {}
+a.academics {}
+a.athletics {}
+a.experience {}
+a.regattas {}
+a.finishes {}
+a.coaches {}
+a.work {}
