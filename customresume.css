@@ -11,17 +11,35 @@ body {
 	width: 100%
 
 }
-div.contact {position: fixed;}
+div.contact {position: fixed;
+}
+a.contact {color: #E60000;
+text-decoration: underline;}
 div.one {text-align: right;
-margin-right: 78px}
-div.content {float: right;}
-h1 {text-align: center;}
+margin-right: 78px;
+}
+div.content {float: right;
+margin-left: 50px;}
+h1 {text-align: center;
+margin-left: 102px}
 ul {}
 li {}
-a.academics {}
-a.athletics {}
-a.experience {}
-a.regattas {}
-a.finishes {}
-a.coaches {}
-a.work {}
+a.academics {text-decoration: underline;
+color: #E60000;
+}
+a.athletics {text-decoration: underline;
+	color: #E60000;
+}
+a.experience {text-decoration: underline;
+color: #E60000;}
+a.regattas {text-decoration: underline;
+color: #E60000;}
+a.finishes {text-decoration: underline;
+color: #E60000;}
+a.coaches {text-decoration: underline;
+color: #E60000;}
+a.work {text-decoration: underline;
+color: #E60000;}
+a.email {color: #F5FAFF;}
+a:hover {color: #FFFF66;}
+a:visited {color: #9900CC;}
